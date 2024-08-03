@@ -3,5 +3,5 @@
 
 Este es el curso en GitHub pages
 
-[ejemplo.md](Primer ejemplo)
-[ejemplo1.md](segundo ejemplo)
+[Primer ejemplo](ejemplo.md)
+[segundo ejemplo](ejemplo1.md)
