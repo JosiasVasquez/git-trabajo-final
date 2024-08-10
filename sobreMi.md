@@ -9,8 +9,10 @@
 
         4. ¿Cuál fue la parte más difícil del curso?
         la antepenultima clase
-        
+
         5. ¿Qué parte del curso te gustó más?
+        la ultima clase
+        
         6. ¿Cómo evaluarías el curso en una escala del 1 al 10?
         7. ¿Recomendarías este curso a otras personas?
         8. ¿Qué mejorarías del curso?
