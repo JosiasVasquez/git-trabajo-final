@@ -13,3 +13,5 @@ Los ejercicios prácticos, e incluso el examen práctico.
 En un 9.
 7. ¿Recomendarías este curso a otras personas?
 Sí, mucho.
+8. ¿Qué mejorarías del curso?
+Que se agregue code en la configuración del editor de código por defecto de la consola y que se informe el comando para salir de bin desde el inicio del curso.
