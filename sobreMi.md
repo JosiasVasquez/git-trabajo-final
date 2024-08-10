@@ -28,4 +28,7 @@ Un 10, sin dudas, tanto por la enseñanza del profe Josias, como por el acompañ
 Sí, lo super recomandaría, es excelente la enseñanza, los recursos, y además su labor por la inclusión de todas las personas en el mundo It, lo super recomiendo y por supuesto que lo super agradezco.
 
 ---------
+8. ¿Qué mejorarías del curso?
+No considero que se deberia mejorar algo, quizas si agregaria más clases si faltarian cosas por ver de git/git Hub (desconozco si falta algo más) y en un futuro quizas conocer git Lab.
 
+---------
