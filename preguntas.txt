@@ -9,3 +9,6 @@ En desarrollo de sistemas.
 
         4. ¿Cuál fue la parte más difícil del curso?
 La solución de conflictos.
+
+        5. ¿Qué parte del curso te gustó más?
+los stash y gestión de ramas.
