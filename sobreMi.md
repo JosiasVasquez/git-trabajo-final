@@ -18,7 +18,9 @@
 
         7. ¿Recomendarías este curso a otras personas?
         si
-        
+
         8. ¿Qué mejorarías del curso?
+        mas practica con compañeros
+        
         9. ¿Cuál fue tu proyecto favorito o ejercicio y por qué?
         10. ¿Qué expectativas tenías antes de comenzar el curso y se cumplieron?
