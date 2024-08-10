@@ -6,3 +6,4 @@ Archivo sobre Marcos Casimiro
 5. Al trabajar con ramas y enviar pull requests como colaborador a un proyecto.
 6. Le pondría un 9.
 7. Si lo recomendaría como un excelente curso.
+8. El formar grupos y practicar lo aprendido.
