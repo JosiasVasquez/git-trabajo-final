@@ -6,3 +6,4 @@
 6. ¿Cómo evaluarías el curso en una escala del 1 al 10? 10/10
 7. ¿Recomendarías este curso a otras personas? Si
 8. ¿Qué mejorarías del curso? Abarcaria más contenido y comandos de git
+9. ¿Cuál fue tu proyecto favorito o ejercicio y por qué? El ultimo porque fue el mas complejo
