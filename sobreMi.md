@@ -16,3 +16,7 @@ Pienso practicar lo aprendido colaborando en proyectos, me ayudara a hacer mi po
 Para mi la parte más dificil del curso fueron las dos últimas clases, donde trabajamos con el repositorio remoto, y las tareas, pero a pesar de ser dificil, fue muy importante para terminar de comprender los temas y practicarlos por nosotros mismo.
 
 --------
+5. ¿Qué parte del curso te gustó más?
+Definitamente las practicas a pesar de ser dificil me encanto hacerlas sobre todo porque al finalizarlas sentia que sabia hacerlo realmente, además me gusto mucho la enseñanza y el acompañamiento del profe, que en todo momento respondia nuestras dudas
+
+--------
