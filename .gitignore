@@ -1,0 +1,4 @@
+# ignora extención log
+*.log
+# ignora archivos de directorio ejemplos
+ejemplos/*
