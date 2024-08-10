@@ -8,3 +8,4 @@ Archivo sobre Marcos Casimiro
 7. Si lo recomendaría como un excelente curso.
 8. El formar grupos y practicar lo aprendido.
 9. Favorita la parte de pull requests porque es lo que necesitaba para trabajar en equipo en otro curso de desarrollador fullstack y no sabía como colaborar, ahora ya lo aprendí en este curso de git-github.
+10. Tenía la expectativa de aprender bien a manejar git y github para trabajar en equipo con el control de versiones y si se cumplieron.
