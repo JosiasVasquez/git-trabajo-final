@@ -21,6 +21,8 @@
 
         8. ¿Qué mejorarías del curso?
         mas practica con compañeros
-        
+
         9. ¿Cuál fue tu proyecto favorito o ejercicio y por qué?
+        todos los de las ultomas 2 clases
+        
         10. ¿Qué expectativas tenías antes de comenzar el curso y se cumplieron?
