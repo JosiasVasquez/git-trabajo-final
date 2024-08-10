@@ -1,5 +1,5 @@
  1. ¿Qué es lo más valioso que aprendiste en el curso? a no usar mejor la consola de linux y git y git hub
-        2. ¿Qué tema no te queda tan claro?
+        2. ¿Qué tema no te queda tan claro? pull request
         3. ¿Cómo piensas practicar lo aprendido?
         4. ¿Cuál fue la parte más difícil del curso?
         5. ¿Qué parte del curso te gustó más?
