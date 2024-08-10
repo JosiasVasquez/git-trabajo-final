@@ -11,3 +11,5 @@ Sigue siendo difícil retener tanto comando de la consola todavía.
 Los ejercicios prácticos, e incluso el examen práctico.
 6. ¿Cómo evaluarías el curso en una escala del 1 al 10?
 En un 9.
+7. ¿Recomendarías este curso a otras personas?
+Sí, mucho.
