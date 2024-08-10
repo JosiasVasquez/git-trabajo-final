@@ -3,8 +3,10 @@
         
         2. ¿Qué tema no te queda tan claro?
         lo de rebase
-        
+
         3. ¿Cómo piensas practicar lo aprendido?
+        buscando un grupo para poder practicar
+        
         4. ¿Cuál fue la parte más difícil del curso?
         5. ¿Qué parte del curso te gustó más?
         6. ¿Cómo evaluarías el curso en una escala del 1 al 10?
