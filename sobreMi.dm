@@ -7,3 +7,4 @@
 7. ¿Recomendarías este curso a otras personas? Si
 8. ¿Qué mejorarías del curso? Abarcaria más contenido y comandos de git
 9. ¿Cuál fue tu proyecto favorito o ejercicio y por qué? El ultimo porque fue el mas complejo
+10. ¿Qué expectativas tenías antes de comenzar el curso y se cumplieron? Si, se cumplieron
