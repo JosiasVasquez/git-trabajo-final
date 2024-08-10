@@ -24,5 +24,6 @@
 
         9. ¿Cuál fue tu proyecto favorito o ejercicio y por qué?
         todos los de las ultomas 2 clases
-        
+
         10. ¿Qué expectativas tenías antes de comenzar el curso y se cumplieron?
+        tenia expectativas de introducrme al tema y si fue satisfactorio
