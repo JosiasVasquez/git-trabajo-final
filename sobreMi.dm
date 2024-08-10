@@ -3,3 +3,4 @@
 3. ¿Cómo piensas practicar lo aprendido? Haciendo proyectos y subiendolos a github con git
 4. ¿Cuál fue la parte más difícil del curso? Ninguna
 5. ¿Qué parte del curso te gustó más? Todo
+6. ¿Cómo evaluarías el curso en una escala del 1 al 10? 10/10
