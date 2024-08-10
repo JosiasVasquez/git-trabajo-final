@@ -12,8 +12,10 @@
 
         5. ¿Qué parte del curso te gustó más?
         la ultima clase
-        
+
         6. ¿Cómo evaluarías el curso en una escala del 1 al 10?
+        9
+        
         7. ¿Recomendarías este curso a otras personas?
         8. ¿Qué mejorarías del curso?
         9. ¿Cuál fue tu proyecto favorito o ejercicio y por qué?
