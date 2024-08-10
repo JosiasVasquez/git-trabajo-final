@@ -17,3 +17,5 @@ Sí, mucho.
 Que se agregue code en la configuración del editor de código por defecto de la consola y que se informe el comando para salir de bin desde el inicio del curso.
 9. ¿Cuál fue tu proyecto favorito o ejercicio y por qué?
 El examen final práctico, porque estamos contra reloj.
+10. ¿Qué expectativas tenías antes de comenzar el curso y se cumplieron?
+Pensaba que se iba a tratar de un curso más básico, pero en realidad superó mis espectativas.
