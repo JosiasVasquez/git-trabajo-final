@@ -15,8 +15,10 @@
 
         6. ¿Cómo evaluarías el curso en una escala del 1 al 10?
         9
-        
+
         7. ¿Recomendarías este curso a otras personas?
+        si
+        
         8. ¿Qué mejorarías del curso?
         9. ¿Cuál fue tu proyecto favorito o ejercicio y por qué?
         10. ¿Qué expectativas tenías antes de comenzar el curso y se cumplieron?
