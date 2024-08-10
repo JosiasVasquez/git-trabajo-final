@@ -14,3 +14,5 @@ El buen ambiente y la disposición de todos, en particular del profesor, para re
 Sí.
         8. ¿Qué mejorarías del curso?
 Como dije antes, la velocidad. Se podría hacer un curso un poco más largo y más lento, o de la misma duración pero con menos temas. Si no estás acostumbrado, es difícil entender de primera cómo usar git con el montón enorme de comandos que tiene y todas las cosas que hay que tener en cuenta para manejar los repositorios, configurar los certificados, vincular la cuenta y etc.
+        9. ¿Cuál fue tu proyecto favorito o ejercicio y por qué?
+No tengo un proyecto favorito, todos me aportaron algo valioso.
