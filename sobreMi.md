@@ -5,3 +5,4 @@ Archivo sobre Marcos Casimiro
 4. Al trabajar sobre merge y corregir errores.
 5. Al trabajar con ramas y enviar pull requests como colaborador a un proyecto.
 6. Le pondría un 9.
+7. Si lo recomendaría como un excelente curso.
