@@ -20,3 +20,7 @@ Para mi la parte más dificil del curso fueron las dos últimas clases, donde tr
 Definitamente las practicas a pesar de ser dificil me encanto hacerlas sobre todo porque al finalizarlas sentia que sabia hacerlo realmente, además me gusto mucho la enseñanza y el acompañamiento del profe, que en todo momento respondia nuestras dudas
 
 --------
+6. ¿Cómo evaluarías el curso en una escala del 1 al 10?
+Un 10, sin dudas, tanto por la enseñanza del profe Josias, como por el acompañamiento de Lu, además de subir todos los recursos de los comandos y las clases grabadas, a mi eso me ayudo mucho para estudiar y reverlos los días de semana.
+--------
+
