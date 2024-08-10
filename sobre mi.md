@@ -10,3 +10,5 @@ Seguir al profesor en clase. Iba muy rápido con los comandos y en ciertos momen
 El buen ambiente y la disposición de todos, en particular del profesor, para resolver dudas.
         6. ¿Cómo evaluarías el curso en una escala del 1 al 10?
 8
+        7. ¿Recomendarías este curso a otras personas?
+Sí.
