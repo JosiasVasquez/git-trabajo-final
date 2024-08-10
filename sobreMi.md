@@ -36,3 +36,6 @@ No considero que se deberia mejorar algo, quizas si agregaria más clases si fal
 No tengo un favorito, todos me gustaron.
 
 ---------
+10. ¿Qué expectativas tenías antes de comenzar el curso y se cumplieron?
+Tenia como expectativa conocer más git, no tenerle tanto temor y conocer más comandos, se cumplieron mis expectativas y mucho más.
+
