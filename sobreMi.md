@@ -22,5 +22,10 @@ Definitamente las practicas a pesar de ser dificil me encanto hacerlas sobre tod
 --------
 6. ¿Cómo evaluarías el curso en una escala del 1 al 10?
 Un 10, sin dudas, tanto por la enseñanza del profe Josias, como por el acompañamiento de Lu, además de subir todos los recursos de los comandos y las clases grabadas, a mi eso me ayudo mucho para estudiar y reverlos los días de semana.
---------
+
+---------
+7. ¿Recomendarías este curso a otras personas?
+Sí, lo super recomandaría, es excelente la enseñanza, los recursos, y además su labor por la inclusión de todas las personas en el mundo It, lo super recomiendo y por supuesto que lo super agradezco.
+
+---------
 
