@@ -15,3 +15,5 @@ En un 9.
 Sí, mucho.
 8. ¿Qué mejorarías del curso?
 Que se agregue code en la configuración del editor de código por defecto de la consola y que se informe el comando para salir de bin desde el inicio del curso.
+9. ¿Cuál fue tu proyecto favorito o ejercicio y por qué?
+El examen final práctico, porque estamos contra reloj.
