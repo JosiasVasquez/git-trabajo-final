@@ -15,3 +15,6 @@ los stash y gestión de ramas.
 
         6. ¿Cómo evaluarías el curso en una escala del 1 al 10?
 9
+
+        7. ¿Recomendarías este curso a otras personas?
+Sí.
