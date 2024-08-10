@@ -1,3 +1,5 @@
         1. ¿Qué es lo más valioso que aprendiste en el curso?
 las pull request.
 
+        2. ¿Qué tema no te queda tan claro?
+git rebase y gitmerge
