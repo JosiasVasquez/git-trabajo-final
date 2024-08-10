@@ -3,3 +3,7 @@ las pull request.
 
         2. ¿Qué tema no te queda tan claro?
 git rebase y gitmerge
+
+        3. ¿Cómo piensas practicar lo aprendido?
+En desarrollo de sistemas.
+
