@@ -1,0 +1,8 @@
+# ignorar arrchivo log de commits, estos archivos no se suben al repositorio
+#log.* -> ignorar archivos que se llamen log y tengan cualquier extension
+#log.txt -> ignorar un archivo en específico
+#archivosprivados/* -> ignorar carpeta completa
+
+
+*.log
+ejemplos/*
