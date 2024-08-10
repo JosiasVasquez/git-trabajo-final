@@ -2,3 +2,5 @@
 La versatilidad que tiene git para el control de versiones y un montón de comandos útiles.
         2. ¿Qué tema no te queda tan claro?
 Los comandos específicos de git stash
+        3. ¿Cómo piensas practicar lo aprendido?
+Clonando repositorios para ver su código y sus diferentes ramas, ya que no sé tanto de programación como para contribuir todavía.
