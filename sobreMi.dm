@@ -2,3 +2,4 @@
 2. ¿Qué tema no te queda tan claro? Entendi todo
 3. ¿Cómo piensas practicar lo aprendido? Haciendo proyectos y subiendolos a github con git
 4. ¿Cuál fue la parte más difícil del curso? Ninguna
+5. ¿Qué parte del curso te gustó más? Todo
