@@ -12,3 +12,7 @@ Quizas el tema que no me queda tan claro son los relacionados al repo remoto, os
 Pienso practicar lo aprendido colaborando en proyectos, me ayudara a hacer mi portafolio y aprender git, aparte se podra visualizar en mi propio git hub mi actividad y corroborar a partir de las firmas y claves que es algo realiazado por mi.
 
 --------
+4. ¿Cuál fue la parte más difícil del curso?
+Para mi la parte más dificil del curso fueron las dos últimas clases, donde trabajamos con el repositorio remoto, y las tareas, pero a pesar de ser dificil, fue muy importante para terminar de comprender los temas y practicarlos por nosotros mismo.
+
+--------
