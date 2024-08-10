@@ -4,3 +4,4 @@
 4. ¿Cuál fue la parte más difícil del curso? Ninguna
 5. ¿Qué parte del curso te gustó más? Todo
 6. ¿Cómo evaluarías el curso en una escala del 1 al 10? 10/10
+7. ¿Recomendarías este curso a otras personas? Si
