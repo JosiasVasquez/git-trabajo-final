@@ -9,3 +9,5 @@ Guardando mis proyectos ahora en git e ir usándolo para todo lo que haga de aqu
 Sigue siendo difícil retener tanto comando de la consola todavía.
 5. ¿Qué parte del curso te gustó más?
 Los ejercicios prácticos, e incluso el examen práctico.
+6. ¿Cómo evaluarías el curso en una escala del 1 al 10?
+En un 9.
