@@ -32,3 +32,7 @@ Sí, lo super recomandaría, es excelente la enseñanza, los recursos, y además
 No considero que se deberia mejorar algo, quizas si agregaria más clases si faltarian cosas por ver de git/git Hub (desconozco si falta algo más) y en un futuro quizas conocer git Lab.
 
 ---------
+9. ¿Cuál fue tu proyecto favorito o ejercicio y por qué?
+No tengo un favorito, todos me gustaron.
+
+---------
