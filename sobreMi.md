@@ -7,3 +7,4 @@ Archivo sobre Marcos Casimiro
 6. Le pondría un 9.
 7. Si lo recomendaría como un excelente curso.
 8. El formar grupos y practicar lo aprendido.
+9. Favorita la parte de pull requests porque es lo que necesitaba para trabajar en equipo en otro curso de desarrollador fullstack y no sabía como colaborar, ahora ya lo aprendí en este curso de git-github.
