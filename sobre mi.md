@@ -8,3 +8,5 @@ Clonando repositorios para ver su código y sus diferentes ramas, ya que no sé 
 Seguir al profesor en clase. Iba muy rápido con los comandos y en ciertos momentos me perdía, aunque por suerte siempre había espacio para dudas.
         5. ¿Qué parte del curso te gustó más?
 El buen ambiente y la disposición de todos, en particular del profesor, para resolver dudas.
+        6. ¿Cómo evaluarías el curso en una escala del 1 al 10?
+8
