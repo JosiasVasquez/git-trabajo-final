@@ -25,3 +25,5 @@ Hacer una practica colaborativa  entre dos o más integrantes.
         9. ¿Cuál fue tu proyecto favorito o ejercicio y por qué?
 La gestión de ramas y resolución de conflictos  por  que permite  administrar  diversas ramas  realizando  tareas sin afectar a todo el proyecto.
 
+        10. ¿Qué expectativas tenías antes de comenzar el curso y se cumplieron?
+Manejo de versiones, gestion de conflictos, proceso colaborativo si se cumplierón.
