@@ -4,3 +4,5 @@ Preguntas de la práctica
 Hola, a utilizar el control de versiones mediante la consola que maneja este sistema.
         2. ¿Qué tema no te queda tan claro?
 El de stash.
+        3. ¿Cómo piensas practicar lo aprendido?
+Mediante proyectos que tengo con otros lenguages en colaboración y porque no, en tareas que me vallan dejando de otros cursos que pienso realizar.
