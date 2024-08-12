@@ -14,3 +14,5 @@ Respuesta: Con un 10.
 Respuesta: Sí, un curso muy completo.
 8. ¿Qué mejorarías del curso?
 Respuesta: La escucha del sonido del lector directamente al compartir la pantalla.
+9. ¿Cuál fue tu proyecto favorito o ejercicio y por qué?
+Respuesta: La bifurcación de un repositorio, porque permite clonarlo de forma local a tu máquina para revisarlo o realizar aportes.
