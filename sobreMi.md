@@ -12,3 +12,5 @@ Respuesta: Todos los temas fueron absolutamente interesantes y fascinantes.
 Respuesta: Con un 10.
 7. ¿Recomendarías este curso a otras personas?
 Respuesta: Sí, un curso muy completo.
+8. ¿Qué mejorarías del curso?
+Respuesta: La escucha del sonido del lector directamente al compartir la pantalla.
