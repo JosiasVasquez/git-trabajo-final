@@ -8,3 +8,5 @@ Respuesta: Consultando repositorios que llamen mi atención, y en proyectos dond
 Respuesta: La solución de conflictos.
 5. ¿Qué parte del curso te gustó más?
 Respuesta: Todos los temas fueron absolutamente interesantes y fascinantes.
+6. ¿Cómo evaluarías el curso en una escala del 1 al 10?
+Respuesta: Con un 10.
