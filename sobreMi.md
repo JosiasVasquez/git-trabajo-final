@@ -16,3 +16,5 @@ Respuesta: Sí, un curso muy completo.
 Respuesta: La escucha del sonido del lector directamente al compartir la pantalla.
 9. ¿Cuál fue tu proyecto favorito o ejercicio y por qué?
 Respuesta: La bifurcación de un repositorio, porque permite clonarlo de forma local a tu máquina para revisarlo o realizar aportes.
+10. ¿Qué expectativas tenías antes de comenzar el curso y se cumplieron?
+Respuesta: Aprender y conocer el manejo completo de estas herramientas de colaboración.
