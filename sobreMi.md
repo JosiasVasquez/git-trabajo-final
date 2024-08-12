@@ -6,3 +6,5 @@ Respuesta: Trabajo con ramas y solución de conflictos.
 Respuesta: Consultando repositorios que llamen mi atención, y en proyectos donde se requiera el uso de estas herramientas de colaboración.
 4. ¿Cuál fue la parte más difícil del curso?
 Respuesta: La solución de conflictos.
+5. ¿Qué parte del curso te gustó más?
+Respuesta: Todos los temas fueron absolutamente interesantes y fascinantes.
