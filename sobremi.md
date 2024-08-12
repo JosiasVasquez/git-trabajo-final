@@ -8,3 +8,5 @@ El de stash.
 Mediante proyectos que tengo con otros lenguages en colaboración y porque no, en tareas que me vallan dejando de otros cursos que pienso realizar.
         4. ¿Cuál fue la parte más difícil del curso?
 Pienso que los temas de las primeras clases, porque uno no está familiarisado con los comandos y el comportamiento de la consola. le aplaudo que nos haya dejado esas tareas para ir practicando y ir comprendiendo el funcionamiento de este sistema.
+        5. ¿Qué parte del curso te gustó más?
+cuando vi que ya era capaz de controlar las versiones de mis proyectos con facilidad mediante los tag, commit y cambio de ramas. y no se diga, cuando hice la fución de todo con la rama principal.
