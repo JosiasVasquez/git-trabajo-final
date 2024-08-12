@@ -10,3 +10,5 @@ Respuesta: La solución de conflictos.
 Respuesta: Todos los temas fueron absolutamente interesantes y fascinantes.
 6. ¿Cómo evaluarías el curso en una escala del 1 al 10?
 Respuesta: Con un 10.
+7. ¿Recomendarías este curso a otras personas?
+Respuesta: Sí, un curso muy completo.
