@@ -16,3 +16,5 @@ cuando vi que ya era capaz de controlar las versiones de mis proyectos con facil
 si, es una genialidad que ustedes como fundación brinden este tipo de becas, y que la persona que da el curso, esté sumamente preparada.
         8. ¿Qué mejorarías del curso?
 no hay mucho que mejorar, solo una pequeña explicación de josias sobre el tipo de navegación no usual que pueda estar utilizando. y talvez que se hiciera una tarea donde entremos en colaboración ya sea todo el grupo o por equipos.
+        9. ¿Cuál fue tu proyecto favorito o ejercicio y por qué?
+la segunda tarea, porque pudimos reafirmar y mejorar el control de versiones con más rapidés.
