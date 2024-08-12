@@ -14,3 +14,5 @@ cuando vi que ya era capaz de controlar las versiones de mis proyectos con facil
 9.8. no le agrego las 2 décimas porque en ocaciones me pierdo en la nabegacion que hace josias al explicar con el lector de pantalla. no se si sería prudente que agregue una pequeña explicación de la manera en como se mueve porque a veces si toca investigar como es que le hizo y uno se tarda más en comprender todo el mensaje. claro que comprendo esa manera de trabajar porque en el grupo contamos con personas sin discapacidad visual y josias obvio que no se puede tardar toda la vida en enseñarnos como navegar jajaja.
         7. ¿Recomendarías este curso a otras personas?
 si, es una genialidad que ustedes como fundación brinden este tipo de becas, y que la persona que da el curso, esté sumamente preparada.
+        8. ¿Qué mejorarías del curso?
+no hay mucho que mejorar, solo una pequeña explicación de josias sobre el tipo de navegación no usual que pueda estar utilizando. y talvez que se hiciera una tarea donde entremos en colaboración ya sea todo el grupo o por equipos.
