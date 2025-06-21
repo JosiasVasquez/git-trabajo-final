@@ -24,3 +24,6 @@ Mejoraria tal vez la presentacion de los temas porque habia veces en las que hab
 
 9. ¿Cuál fue tu proyecto favorito o ejercicio y por qué?
 Mi ejercicio favorito fue el de crear commits para el top5 y top10 porque me hizo cuestionarme mis gustos
+
+10. ¿Qué expectativas tenías antes de comenzar el curso y se cumplieron?
+No tenia expectativa alguna y la verdad quede sorprendido y maravillado con este curso, recomendado
