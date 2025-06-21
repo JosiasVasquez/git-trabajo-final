@@ -12,3 +12,5 @@ Las actividades extraclases propuestas
 10
 7. ¿Recomendarías este curso a otras personas?
 Si
+8. ¿Qué mejorarías del curso?
+Nada, en verdad lo encuentro de muy buena calidad. Quizas daria mas tiempo a entregar el trabajo final.
