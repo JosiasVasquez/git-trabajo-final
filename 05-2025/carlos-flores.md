@@ -6,3 +6,4 @@ Respuestas a las 10 preguntas del curso de Git:
 3: en mis practicas de programación, me va a servir mucho
 4: sobre los poolreques
 5: lasección de preguntas
+6: le pongo un 7 porque se le escuchaba lejos del microfono y eso me hacia perder un poco en la clase
