@@ -27,7 +27,7 @@
    Tal vez agregaría más ejemplos prácticos para practicar cada comando, y alguna guía rápida con los más usados. 
 
 9. **¿Cuál fue tu proyecto favorito o ejercicio y por qué?**
-   El trabajo final, porque pude aplicar todo lo aprendido.
+   Me gustó hacer el ejercicio de crear ramas y combinar cambios, porque me ayudó a entender cómo se trabaja en equipo con Git. 
 
 10. **¿Qué expectativas tenías antes de comenzar el curso y se cumplieron?**
     Esperaba aprender a usar Git y GitHub, y sí cumplí esa meta.
