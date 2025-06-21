@@ -15,3 +15,6 @@ El tema que mas me gusto del curso fueron los repositorios remotos y como conect
 
 6. ¿Cómo evaluarías el curso en una escala del 1 al 10?
 Yo evaluaria el curso como un 9
+
+7. ¿Recomendarías este curso a otras personas?
+Si, si lo recomendaria
