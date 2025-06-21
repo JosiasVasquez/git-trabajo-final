@@ -13,3 +13,5 @@ lo de las github pages, es algo súper útil y Beneficioso.
 6. 
 7, recomendarías este curso a otras personas?
 si. 
+8, que mejorarías del curso? 
+la hora. 
