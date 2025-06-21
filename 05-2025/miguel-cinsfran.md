@@ -17,3 +17,7 @@ La resolución de conflictos. Al principio, el texto que genera Git en el archiv
 ### 5. ¿Qué parte del curso te gustó más?
 
 La de GitHub Pages. Me encantó ver que en un momento un repositorio se convierte en un sitio web funcional. Me da ideas para practicar.
+
+### 6. ¿Cómo evaluarías el curso en una escala del 1 al 10?
+
+Un 9 de 10. Muy práctico y va directo al grano, que es lo que buscaba.
