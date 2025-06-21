@@ -14,3 +14,5 @@ Las actividades extraclases propuestas
 Si
 8. ¿Qué mejorarías del curso?
 Nada, en verdad lo encuentro de muy buena calidad. Quizas daria mas tiempo a entregar el trabajo final.
+9. ¿Cuál fue tu proyecto favorito o ejercicio y por qué?
+El de la segunda clase, ya que mis dificultades me demostraron que era necesario repasar hasta que entendi mis errores.
