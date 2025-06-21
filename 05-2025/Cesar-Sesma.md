@@ -24,5 +24,6 @@
 		y hay mas comandos que no fueron mencionados, profundizar mas en eso, pero se haria muy largo creo
 	
 	9. ¿Cuál fue tu proyecto favorito o ejercicio y por qué?
+		el de pull request, porque no sabia para que era y en el trabajo varias veces lo escuché pero me daba pena preguntar
 	
 	10. ¿Qué expectativas tenías antes de comenzar el curso y se cumplieron?
