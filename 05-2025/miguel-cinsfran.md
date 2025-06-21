@@ -9,3 +9,7 @@ Todavía me cuesta un poco saber cuándo es mejor usar `rebase` en vez de `merge
 ### 3. ¿Cómo piensas practicar lo aprendido?
 
 Voy a usar Git para todos mis proyectos personales, por más chicos que sean. Así se me hace costumbre.
+
+### 4. ¿Cuál fue la parte más difícil del curso?
+
+La resolución de conflictos. Al principio, el texto que genera Git en el archivo es bastante confuso.
