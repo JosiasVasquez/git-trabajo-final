@@ -8,3 +8,6 @@ Los temas me quedan claros, pero necesito practicar mas para memorizar los coman
         3. ¿Cómo piensas practicar lo aprendido?
 En uno de mis trabajos actuales utilizan Git, así que seguramente lo usaré. Además de proyectos personales.
 
+        4. ¿Cuál fue la parte más difícil del curso?
+En mi caso fue entender bien la diferencia entre rebase y merge.
+
