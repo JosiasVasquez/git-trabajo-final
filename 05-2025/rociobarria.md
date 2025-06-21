@@ -15,7 +15,7 @@
    Me costó entender bien el uso de ramas y cómo combinarlas correctamente sin errores.
 
 5. **¿Qué parte del curso te gustó más?**
-   Me gustó cuando vimos cómo crear ramas y trabajar con ellas.
+   Me gustó la parte práctica donde aplicamos los comandos en la terminal. También valoré mucho la forma en que se enseñó, con paciencia y claridad.
 
 6. **¿Cómo evaluarías el curso en una escala del 1 al 10?**
    Le doy un 10, porque fue claro y muy útil.
