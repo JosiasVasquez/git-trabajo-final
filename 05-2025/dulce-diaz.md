@@ -13,3 +13,5 @@ R5:Me gustaron las practicas aunque se me complicaba mucho hacer las tareas porq
 R6:Lo evaluaria con 8
 
 R7:Si lo recomendaria.
+
+R8:Contestar un formulario cada semana con los comandos vistos de esa clase para repasar.
