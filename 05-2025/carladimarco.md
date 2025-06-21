@@ -18,6 +18,8 @@ Me resultaron difíciles lo extenso de los trabajos. A veces me mareaba y me res
 Me gustó la parte en la que los proyectos se vuelven colaborativos
 
 6. ¿Cómo evaluarías el curso en una escala del 1 al 10?
+8
+
 7. ¿Recomendarías este curso a otras personas?
 8. ¿Qué mejorarías del curso?
 9. ¿Cuál fue tu proyecto favorito o ejercicio y por qué?
