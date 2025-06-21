@@ -20,6 +20,8 @@
 		Por supuesto
 		
 	8. ¿Qué mejorarías del curso?
+		que sea un poco mas basico y completo, por mi experiencia y al menos que me haya perdido algo anterior, faltó explicar para que sirve, casos de uso, 
+		y hay mas comandos que no fueron mencionados, profundizar mas en eso, pero se haria muy largo creo
 	
 	9. ¿Cuál fue tu proyecto favorito o ejercicio y por qué?
 	
