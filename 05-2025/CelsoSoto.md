@@ -14,3 +14,6 @@ En mi caso fue entender bien la diferencia entre rebase y merge.
         5. ¿Qué parte del curso te gustó más?
 La parte de como convertir un repositorio en una GitHub Page.
 
+        6. ¿Cómo evaluarías el curso en una escala del 1 al 10?
+Le doy un 9.
+
