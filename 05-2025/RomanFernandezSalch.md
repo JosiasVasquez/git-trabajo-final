@@ -12,3 +12,6 @@ El tema del stash me resulto complejo pero lo pude resolver
 
 5. ¿Qué parte del curso te gustó más?
 El tema que mas me gusto del curso fueron los repositorios remotos y como conectar con ellos
+
+6. ¿Cómo evaluarías el curso en una escala del 1 al 10?
+Yo evaluaria el curso como un 9
