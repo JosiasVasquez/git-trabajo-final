@@ -8,3 +8,5 @@ A traves de proyectos personales y estudiantiles
 Tarde mucho en resolver el segundo trabajo practico, ya que creaba commits aislados por utilizar mal checkout hasta que me di cuenta de mis errores
 5. ¿Qué parte del curso te gustó más?
 Las actividades extraclases propuestas
+6. ¿Cómo evaluarías el curso en una escala del 1 al 10?
+10
