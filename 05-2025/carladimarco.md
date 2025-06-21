@@ -21,6 +21,8 @@ Me gustó la parte en la que los proyectos se vuelven colaborativos
 8
 
 7. ¿Recomendarías este curso a otras personas?
+Si, es muy recomendable para las personas que trabajan con este tipo de proyectos y además el curso es mmuy completo
+
 8. ¿Qué mejorarías del curso?
 9. ¿Cuál fue tu proyecto favorito o ejercicio y por qué?
 10. ¿Qué expectativas tenías antes de comenzar el curso y se cumplieron?
