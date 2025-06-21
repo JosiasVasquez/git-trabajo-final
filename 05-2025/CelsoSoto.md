@@ -11,3 +11,6 @@ En uno de mis trabajos actuales utilizan Git, así que seguramente lo usaré. Ad
         4. ¿Cuál fue la parte más difícil del curso?
 En mi caso fue entender bien la diferencia entre rebase y merge.
 
+        5. ¿Qué parte del curso te gustó más?
+La parte de como convertir un repositorio en una GitHub Page.
+
