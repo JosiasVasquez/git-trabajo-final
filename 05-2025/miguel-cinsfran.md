@@ -13,3 +13,7 @@ Voy a usar Git para todos mis proyectos personales, por más chicos que sean. As
 ### 4. ¿Cuál fue la parte más difícil del curso?
 
 La resolución de conflictos. Al principio, el texto que genera Git en el archivo es bastante confuso.
+
+### 5. ¿Qué parte del curso te gustó más?
+
+La de GitHub Pages. Me encantó ver que en un momento un repositorio se convierte en un sitio web funcional. Me da ideas para practicar.
