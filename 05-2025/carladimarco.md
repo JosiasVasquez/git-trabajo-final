@@ -30,3 +30,4 @@ Pensando en que no se necesitan conocimientos previos, acortaría las tareas. O 
 Como mencioné antes, lo que más me gustó fue crear y subir un archivo README al repositorio porque me ayudó a entender cómo funciona GitHub y cómo compartir mi trabajo con otros.
 
 10. ¿Qué expectativas tenías antes de comenzar el curso y se cumplieron?
+Esperaba profundizar mis conocimientos en git y githab y se cumplieron mis expectativas
