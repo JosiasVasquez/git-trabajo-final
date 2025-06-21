@@ -21,3 +21,6 @@ Si, si lo recomendaria
 
 8. ¿Qué mejorarías del curso?
 Mejoraria tal vez la presentacion de los temas porque habia veces en las que habia silencios largos o tal vez alguna pestaña que tapaba la clase
+
+9. ¿Cuál fue tu proyecto favorito o ejercicio y por qué?
+Mi ejercicio favorito fue el de crear commits para el top5 y top10 porque me hizo cuestionarme mis gustos
