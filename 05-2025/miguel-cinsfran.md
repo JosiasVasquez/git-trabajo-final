@@ -33,3 +33,7 @@ Quizás un ejemplo más complejo de resolución de conflictos, que es donde uno 
 ### 9. ¿Cuál fue tu proyecto favorito o ejercicio y por qué?
 
 El de la Pull Request. Fue la primera vez que hice una y me sirvió para perderle el miedo a 'romper' algo ajeno.
+
+### 10. ¿Qué expectativas tenías antes de comenzar el curso y se cumplieron?
+
+Quería entender el 'porqué' de los comandos, no solo copiarlos y pegarlos. Expectativa cumplida al 100% sinceramente.
