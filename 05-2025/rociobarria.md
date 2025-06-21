@@ -30,4 +30,4 @@
    Me gustó hacer el ejercicio de crear ramas y combinar cambios, porque me ayudó a entender cómo se trabaja en equipo con Git. 
 
 10. **¿Qué expectativas tenías antes de comenzar el curso y se cumplieron?**
-    Esperaba aprender a usar Git y GitHub, y sí cumplí esa meta.
+´  Esperaba aprender lo básico para usar git y GitHub, y definitivamente se cumplieron todas mis expectativas gracias a la dedicación del equipo. 
