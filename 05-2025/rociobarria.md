@@ -12,7 +12,7 @@
    Planeo seguir usando Git y GitHub en mis proyectos personales, y practicar con pequeños ejercicios hasta que se me haga más natural. 
 
 4. **¿Cuál fue la parte más difícil del curso?**
-   Cuando tuvimos que resolver conflictos al juntar cambios.
+   Me costó entender bien el uso de ramas y cómo combinarlas correctamente sin errores.
 
 5. **¿Qué parte del curso te gustó más?**
    Me gustó cuando vimos cómo crear ramas y trabajar con ellas.
