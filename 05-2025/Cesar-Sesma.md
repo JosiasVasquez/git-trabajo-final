@@ -11,6 +11,7 @@
 		para mi la parte de firmas porque no pude hacer correctamente la tarea, ya que no me reconocia el comando, algo me habra faltado instalar
 		
 	5. ¿Qué parte del curso te gustó más?
+		en si todo el curso estubo bueno, muy bien explicado
 	
 	6. ¿Cómo evaluarías el curso en una escala del 1 al 10?
 	
