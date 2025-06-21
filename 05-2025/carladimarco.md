@@ -15,7 +15,7 @@ Tengo algunos proyectos que pienso aplicar en mi trabajo, por lo que aprovechar�
 Me resultaron difíciles lo extenso de los trabajos. A veces me mareaba y me resultaba difícil entender como corregir y volver o empezar de nuevo.
 
 5. ¿Qué parte del curso te gustó más?
-
+Me gustó la parte en la que los proyectos se vuelven colaborativos
 
 6. ¿Cómo evaluarías el curso en una escala del 1 al 10?
 7. ¿Recomendarías este curso a otras personas?
