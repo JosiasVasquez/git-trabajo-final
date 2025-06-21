@@ -5,3 +5,6 @@ Todo el curso en general es importante, poder usar Git y GitHub es una herramien
         2. ¿Qué tema no te queda tan claro?
 Los temas me quedan claros, pero necesito practicar mas para memorizar los comandos.
 
+        3. ¿Cómo piensas practicar lo aprendido?
+En uno de mis trabajos actuales utilizan Git, así que seguramente lo usaré. Además de proyectos personales.
+
