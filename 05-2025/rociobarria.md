@@ -9,7 +9,7 @@
    Todavía me cuesta un poco entender cómo funciona rebase y en qué casos en qué casos es mejor usarlo en lugar de merge.
 
 3. **¿Cómo piensas practicar lo aprendido?**
-   Voy a seguir haciendo ejercicios y colaborando en proyectos pequeños.
+   Planeo seguir usando Git y GitHub en mis proyectos personales, y practicar con pequeños ejercicios hasta que se me haga más natural. 
 
 4. **¿Cuál fue la parte más difícil del curso?**
    Cuando tuvimos que resolver conflictos al juntar cambios.
