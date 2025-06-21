@@ -27,3 +27,4 @@
 		el de pull request, porque no sabia para que era y en el trabajo varias veces lo escuché pero me daba pena preguntar
 	
 	10. ¿Qué expectativas tenías antes de comenzar el curso y se cumplieron?
+		entender al git completo, se cumplieron con lo basico y un poco mas
