@@ -9,3 +9,6 @@ Voy a empezar a utilizar git en mis proyectos personales para no perder la pract
 
 4. ¿Cuál fue la parte más difícil del curso?
 El tema del stash me resulto complejo pero lo pude resolver
+
+5. ¿Qué parte del curso te gustó más?
+El tema que mas me gusto del curso fueron los repositorios remotos y como conectar con ellos
