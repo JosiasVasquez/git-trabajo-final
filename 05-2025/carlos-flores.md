@@ -5,3 +5,4 @@ Respuestas a las 10 preguntas del curso de Git:
 2: aun o me queda claro sobre las incidencias pero imagino entenderlas a lo largo de la practica
 3: en mis practicas de programación, me va a servir mucho
 4: sobre los poolreques
+5: lasección de preguntas
