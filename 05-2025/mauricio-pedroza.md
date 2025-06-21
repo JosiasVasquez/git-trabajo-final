@@ -15,3 +15,5 @@ lo de las github pages, es algo súper útil y Beneficioso.
 si. 
 8, que mejorarías del curso? 
 la hora. 
+9, cual fue tu proyecto o ejercicio y por qué?
+el de las solicitudes de extracción. 
