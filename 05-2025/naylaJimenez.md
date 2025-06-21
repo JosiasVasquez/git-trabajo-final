@@ -28,3 +28,4 @@
         Mi proyecto favorito fue el ultimo donde pudimos hacer una pagina y crear un enlace de la misma utilizando github page
 
         10. ¿Qué expectativas tenías antes de comenzar el curso y se cumplieron?
+        Mi expectativa principar era, fortalecer la utilizacion de los comandos de git si bien tenia una idea muy basica todavia no le perdia el miedo a la consola. Otra expectativa era conocer mas funcionalidades de github que me resultaba una herramienta casi desconocida. Todas estas expectativas se cumplieron 
