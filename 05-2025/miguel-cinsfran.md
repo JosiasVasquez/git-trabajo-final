@@ -25,3 +25,7 @@ Un 9 de 10. Muy práctico y va directo al grano, que es lo que buscaba.
 ### 7. ¿Recomendarías este curso a otras personas?
 
 Sii. Se lo recomendaría a cualquiera que quiera dejar de usar Git con miedo y empezar a entenderlo de verdad.
+
+### 8. ¿Qué mejorarías del curso?
+
+Quizás un ejemplo más complejo de resolución de conflictos, que es donde uno más se traba al principio.
