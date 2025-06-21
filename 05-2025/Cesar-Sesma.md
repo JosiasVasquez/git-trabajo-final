@@ -8,7 +8,8 @@
 		en realidad ya lo uso, pero solo lo basico y desde visual studio donde solo es un clic y listo, pero con esto ya queda mas claro los comandos
 	
 	4. ¿Cuál fue la parte más difícil del curso?
-	
+		para mi la parte de firmas porque no pude hacer correctamente la tarea, ya que no me reconocia el comando, algo me habra faltado instalar
+		
 	5. ¿Qué parte del curso te gustó más?
 	
 	6. ¿Cómo evaluarías el curso en una escala del 1 al 10?
