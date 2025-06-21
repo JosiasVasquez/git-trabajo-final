@@ -7,3 +7,4 @@ En una escala del 1 al 10 le pondría 9, porque si bien es casi perfecto, en est
 Recomendaría este curso al 100%, ¡de verdad que sí!
 Que hayan más explicaciones en cada resumen de la clase, para así poder entender lo visto en las clases más rápido.
 Me encantó mucho el de el sitio web, ya que esto me ha permitido practicar lo aprendido en otro curso, el de html.
+Mis expectativas fueron aprender a dominar más el control de versiones, ¡lo cuál pude lograr con éxito gracias a Dios!
