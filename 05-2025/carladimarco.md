@@ -21,8 +21,12 @@ Me gustó la parte en la que los proyectos se vuelven colaborativos
 8
 
 7. ¿Recomendarías este curso a otras personas?
-Si, es muy recomendable para las personas que trabajan con este tipo de proyectos y además el curso es mmuy completo
+Si, es muy recomendable para las personas que trabajan con este tipo de proyectos y además el curso es muy completo
 
 8. ¿Qué mejorarías del curso?
+Pensando en que no se necesitan conocimientos previos, acortaría las tareas. O como en el caso de este trabajo final, las preguntas del cuestionario más el trabajo final para realizarse en 2 horas, considerando que es un curso de 6 clases, haría algo más corto o un trabajo final a entregar en una semana.
+
 9. ¿Cuál fue tu proyecto favorito o ejercicio y por qué?
+Como mencioné antes, lo que más me gustó fue crear y subir un archivo README al repositorio porque me ayudó a entender cómo funciona GitHub y cómo compartir mi trabajo con otros.
+
 10. ¿Qué expectativas tenías antes de comenzar el curso y se cumplieron?
