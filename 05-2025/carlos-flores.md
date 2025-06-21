@@ -7,3 +7,5 @@ Respuestas a las 10 preguntas del curso de Git:
 4: sobre los poolreques
 5: lasección de preguntas
 6: le pongo un 7 porque se le escuchaba lejos del microfono y eso me hacia perder un poco en la clase
+
+7: si, por supuesto , porque son valiosas las clases
