@@ -16,3 +16,5 @@ Si
 Nada, en verdad lo encuentro de muy buena calidad. Quizas daria mas tiempo a entregar el trabajo final.
 9. ¿Cuál fue tu proyecto favorito o ejercicio y por qué?
 El de la segunda clase, ya que mis dificultades me demostraron que era necesario repasar hasta que entendi mis errores.
+10. ¿Qué expectativas tenías antes de comenzar el curso y se cumplieron?
+Queria reforzar conceptos que habia olvidado y aprender nuevos. Mis expectativas se cumplieron en su totalidad.
