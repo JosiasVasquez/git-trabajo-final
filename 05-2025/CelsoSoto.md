@@ -24,3 +24,6 @@ Sí
 Considero que es importante dar más emplos en clase de los comandos que se van realizando, pues normalmente no se nos quedan a la primera.
 También me gustaría que las explicaciones fueran más descriptivas para las personas que tenemos discapacidad visual, al estilo "el comando git tag es: git , g i t, espacio, tag, t a g, y damos Enter".
 
+        9. ¿Cuál fue tu proyecto favorito o ejercicio y por qué?
+El de GitHub Pages, porque quiero subir un proyecto que ya tengo hecho.
+
