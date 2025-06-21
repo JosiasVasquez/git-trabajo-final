@@ -14,7 +14,8 @@
 		en si todo el curso estubo bueno, muy bien explicado
 	
 	6. ¿Cómo evaluarías el curso en una escala del 1 al 10?
-	
+		Lo evaluaria con 8
+		
 	7. ¿Recomendarías este curso a otras personas?
 	
 	8. ¿Qué mejorarías del curso?
