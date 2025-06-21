@@ -1,7 +1,9 @@
 	1. ¿Qué es lo más valioso que aprendiste en el curso?
 		No solamente lo que a git relaciona, sino que conoci personas que vi que nada te puede frenar, que una capacidad diferente no es el limite
-	2. ¿Qué tema no te queda tan claro?
 	
+	2. ¿Qué tema no te queda tan claro?
+		de lo dado todo me quedo claro, muy bien explicado
+		
 	3. ¿Cómo piensas practicar lo aprendido?
 	
 	4. ¿Cuál fue la parte más difícil del curso?
