@@ -18,3 +18,6 @@ Yo evaluaria el curso como un 9
 
 7. ¿Recomendarías este curso a otras personas?
 Si, si lo recomendaria
+
+8. ¿Qué mejorarías del curso?
+Mejoraria tal vez la presentacion de los temas porque habia veces en las que habia silencios largos o tal vez alguna pestaña que tapaba la clase
