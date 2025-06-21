@@ -18,7 +18,7 @@
    Me gustó la parte práctica donde aplicamos los comandos en la terminal. También valoré mucho la forma en que se enseñó, con paciencia y claridad.
 
 6. **¿Cómo evaluarías el curso en una escala del 1 al 10?**
-   Le doy un 10, porque fue claro y muy útil.
+   Le doy un 10. Fue claro, accesible y se adaptó muy bien a todas las personas, sin importar su experiencia o condición. 
 
 7. **¿Recomendarías este curso a otras personas?**
    Sí, creo que es muy bueno para aprender a colaborar.
