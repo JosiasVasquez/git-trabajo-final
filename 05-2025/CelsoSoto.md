@@ -27,3 +27,5 @@ También me gustaría que las explicaciones fueran más descriptivas para las pe
         9. ¿Cuál fue tu proyecto favorito o ejercicio y por qué?
 El de GitHub Pages, porque quiero subir un proyecto que ya tengo hecho.
 
+        10. ¿Qué expectativas tenías antes de comenzar el curso y se cumplieron?
+Ya tenía algun conocimiento previo y tenía la espectativa de mejorar mis conocimientos y aprender algo nuevo. Mis espectativas se cumplieron ampliamente pues no sabia hacer Forks, enviar Pull request ni convertir un repositorio en una GitHub Page.
