@@ -21,7 +21,7 @@
    Le doy un 10. Fue claro, accesible y se adaptó muy bien a todas las personas, sin importar su experiencia o condición. 
 
 7. **¿Recomendarías este curso a otras personas?**
-   Sí, creo que es muy bueno para aprender a colaborar.
+   Sí, lo recomendaría totalmente. es una gran oportunidad para aprender Git de manera inclusiva y con muy buena explicación.
 
 8. **¿Qué mejorarías del curso?**
    Que tuviera más ejemplos prácticos para seguir en casa.
