@@ -5,6 +5,7 @@
 		de lo dado todo me quedo claro, muy bien explicado
 		
 	3. ¿Cómo piensas practicar lo aprendido?
+		en realidad ya lo uso, pero solo lo basico y desde visual studio donde solo es un clic y listo, pero con esto ya queda mas claro los comandos
 	
 	4. ¿Cuál fue la parte más difícil del curso?
 	
