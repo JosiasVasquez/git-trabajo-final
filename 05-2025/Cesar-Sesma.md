@@ -17,7 +17,8 @@
 		Lo evaluaria con 8
 		
 	7. ¿Recomendarías este curso a otras personas?
-	
+		Por supuesto
+		
 	8. ¿Qué mejorarías del curso?
 	
 	9. ¿Cuál fue tu proyecto favorito o ejercicio y por qué?
