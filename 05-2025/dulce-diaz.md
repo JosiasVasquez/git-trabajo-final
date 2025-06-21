@@ -17,3 +17,5 @@ R7:Si lo recomendaria.
 R8:Contestar un formulario cada semana con los comandos vistos de esa clase para repasar.
 
 R9:El trabajo final, porque estoy repasando todo lo que vi en clase y resolviendo errores.
+
+R10:Queria aprender de git para poder subir mis trabajos a github pero los videos que encontraba no eran muy utiles, asi que este curso me ha ayudado mucho porque esta actualizado y podia preguntar acerca de mis dudas. Asi que si, se cumplieron mis expectativas.
