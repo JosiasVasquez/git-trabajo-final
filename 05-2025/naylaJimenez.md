@@ -25,4 +25,6 @@
         Yo para mejorar el curso incorporaria la utilizacion de un ID para mostrar los comandos de la consola de git, lo considero un entorno mas amable para personas que recien inician el la programacion 
 
         9. ¿Cuál fue tu proyecto favorito o ejercicio y por qué?
+        Mi proyecto favorito fue el ultimo donde pudimos hacer una pagina y crear un enlace de la misma utilizando github page
+
         10. ¿Qué expectativas tenías antes de comenzar el curso y se cumplieron?
