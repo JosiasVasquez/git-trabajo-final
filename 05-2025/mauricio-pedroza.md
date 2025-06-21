@@ -3,3 +3,5 @@
 poder aprender a usar git en windows. 
 2, qué tema no te queda tan claro. 
 lo del stash, no logré entenderlo por completo. 
+3,, Cómo piensas practicar lo aprendido. 
+haciendo proyectos. 
