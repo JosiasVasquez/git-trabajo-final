@@ -6,3 +6,6 @@ La verdad quedaron bastante claros los temas y cualquier inconveniente puedo rev
 
 3. ¿Cómo piensas practicar lo aprendido?
 Voy a empezar a utilizar git en mis proyectos personales para no perder la practica
+
+4. ¿Cuál fue la parte más difícil del curso?
+El tema del stash me resulto complejo pero lo pude resolver
