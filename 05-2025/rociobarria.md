@@ -6,7 +6,7 @@
    Aprendí a usar Git y GitHub para llevar un control de versiones de mis proyectos. También valoro mucho que fue un curso inclusivo y accesible.
 
 2. **¿Qué tema no te queda tan claro?**
-   Me costó entender un poco cómo funcionan las ramas y el rebase.
+   Todavía me cuesta un poco entender cómo funciona rebase y en qué casos en qué casos es mejor usarlo en lugar de merge.
 
 3. **¿Cómo piensas practicar lo aprendido?**
    Voy a seguir haciendo ejercicios y colaborando en proyectos pequeños.
