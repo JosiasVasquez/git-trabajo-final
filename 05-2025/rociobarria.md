@@ -3,7 +3,7 @@
 ## Preguntas y Respuestas
 
 1. **¿Qué es lo más valioso que aprendiste en el curso?**
-   Aprendí a usar Git y GitHub para trabajar en equipo con más confianza.
+   Aprendí a usar Git y GitHub para llevar un control de versiones de mis proyectos. También valoro mucho que fue un curso inclusivo y accesible.
 
 2. **¿Qué tema no te queda tan claro?**
    Me costó entender un poco cómo funcionan las ramas y el rebase.
