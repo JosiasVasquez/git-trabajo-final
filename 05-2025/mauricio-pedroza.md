@@ -11,3 +11,5 @@ lo de las ramas, sin duda es de lo más complejo.
 lo de las github pages, es algo súper útil y Beneficioso. 
 6, cómo evaluarías al curso de una escala del 1 al 10. 
 6. 
+7, recomendarías este curso a otras personas?
+si. 
