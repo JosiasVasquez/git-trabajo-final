@@ -9,3 +9,4 @@ Respuestas a las 10 preguntas del curso de Git:
 6: le pongo un 7 porque se le escuchaba lejos del microfono y eso me hacia perder un poco en la clase
 
 7: si, por supuesto , porque son valiosas las clases
+8: que las clases sean mas completas y extensas para al menos alcansar los conocimientos suficientes para trabajar en una empresa
