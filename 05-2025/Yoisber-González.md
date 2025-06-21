@@ -5,3 +5,4 @@ Lo más difícil fueron las claves gpg y ssh, pero sobre todo las claves gpg por
 Lo que más me gustó fue la característica de github pages, ya que en verdad es genial crear nuestro sitio web con una plataforma y una herramienta tan potente.
 En una escala del 1 al 10 le pondría 9, porque si bien es casi perfecto, en esta edición faltó los recursos de la clase 5.
 Recomendaría este curso al 100%, ¡de verdad que sí!
+Que hayan más explicaciones en cada resumen de la clase, para así poder entender lo visto en las clases más rápido.
