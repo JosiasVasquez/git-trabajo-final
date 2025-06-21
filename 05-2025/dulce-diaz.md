@@ -15,3 +15,5 @@ R6:Lo evaluaria con 8
 R7:Si lo recomendaria.
 
 R8:Contestar un formulario cada semana con los comandos vistos de esa clase para repasar.
+
+R9:El trabajo final, porque estoy repasando todo lo que vi en clase y resolviendo errores.
