@@ -10,3 +10,5 @@ Tarde mucho en resolver el segundo trabajo practico, ya que creaba commits aisla
 Las actividades extraclases propuestas
 6. ¿Cómo evaluarías el curso en una escala del 1 al 10?
 10
+7. ¿Recomendarías este curso a otras personas?
+Si
