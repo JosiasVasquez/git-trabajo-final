@@ -24,7 +24,7 @@
    Sí, lo recomendaría totalmente. es una gran oportunidad para aprender Git de manera inclusiva y con muy buena explicación.
 
 8. **¿Qué mejorarías del curso?**
-   Que tuviera más ejemplos prácticos para seguir en casa.
+   Tal vez agregaría más ejemplos prácticos para practicar cada comando, y alguna guía rápida con los más usados. 
 
 9. **¿Cuál fue tu proyecto favorito o ejercicio y por qué?**
    El trabajo final, porque pude aplicar todo lo aprendido.
