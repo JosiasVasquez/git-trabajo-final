@@ -29,3 +29,7 @@ Sii. Se lo recomendaría a cualquiera que quiera dejar de usar Git con miedo y e
 ### 8. ¿Qué mejorarías del curso?
 
 Quizás un ejemplo más complejo de resolución de conflictos, que es donde uno más se traba al principio.
+
+### 9. ¿Cuál fue tu proyecto favorito o ejercicio y por qué?
+
+El de la Pull Request. Fue la primera vez que hice una y me sirvió para perderle el miedo a 'romper' algo ajeno.
