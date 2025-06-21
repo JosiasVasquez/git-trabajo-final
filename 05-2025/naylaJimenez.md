@@ -5,8 +5,9 @@
         2. ¿Qué tema no te queda tan claro?
         No me quedo tan claro como crear el tag incremental
 
-
         3. ¿Cómo piensas practicar lo aprendido?
+        Actualmente estoy empezando un proyecto con unos compañeros de otro curso, en esta semana creamos el repositorio en github y a medida que vamos avanzando con la codificiacion de dicho proyecto vamos a registrar los cambios utilizando git y github
+
         4. ¿Cuál fue la parte más difícil del curso?
         5. ¿Qué parte del curso te gustó más?
         6. ¿Cómo evaluarías el curso en una escala del 1 al 10?
