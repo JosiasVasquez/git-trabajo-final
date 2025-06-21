@@ -22,5 +22,7 @@
         Sin duda lo voy a recomendar sobre todo por el la claridad con la que transmite los conceptos el profesor
 
         8. ¿Qué mejorarías del curso?
+        Yo para mejorar el curso incorporaria la utilizacion de un ID para mostrar los comandos de la consola de git, lo considero un entorno mas amable para personas que recien inician el la programacion 
+
         9. ¿Cuál fue tu proyecto favorito o ejercicio y por qué?
         10. ¿Qué expectativas tenías antes de comenzar el curso y se cumplieron?
