@@ -19,6 +19,8 @@
         Evaluaria el curso con un 9 el ritmo de las clases con la consola de windows debido a que estuve usando visual studio se me dificultaba un poco pero no tuve mayores inconvenientes
 
         7. ¿Recomendarías este curso a otras personas?
+        Sin duda lo voy a recomendar sobre todo por el la claridad con la que transmite los conceptos el profesor
+
         8. ¿Qué mejorarías del curso?
         9. ¿Cuál fue tu proyecto favorito o ejercicio y por qué?
         10. ¿Qué expectativas tenías antes de comenzar el curso y se cumplieron?
