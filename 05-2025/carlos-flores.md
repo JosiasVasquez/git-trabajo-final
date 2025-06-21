@@ -10,3 +10,4 @@ Respuestas a las 10 preguntas del curso de Git:
 
 7: si, por supuesto , porque son valiosas las clases
 8: que las clases sean mas completas y extensas para al menos alcansar los conocimientos suficientes para trabajar en una empresa
+9: el primero que hice porque me ayudo comprener las cosas basicas de git
