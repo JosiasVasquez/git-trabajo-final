@@ -20,3 +20,7 @@ Le doy un 9.
         7. ¿Recomendarías este curso a otras personas?
 Sí
 
+        8. ¿Qué mejorarías del curso?
+Considero que es importante dar más emplos en clase de los comandos que se van realizando, pues normalmente no se nos quedan a la primera.
+También me gustaría que las explicaciones fueran más descriptivas para las personas que tenemos discapacidad visual, al estilo "el comando git tag es: git , g i t, espacio, tag, t a g, y damos Enter".
+
