@@ -11,3 +11,5 @@ R4:Las primeras semanas porque no tenia ninguna idea de como funcionaba git.
 R5:Me gustaron las practicas aunque se me complicaba mucho hacer las tareas porque aun no domino muchas cosas.
 
 R6:Lo evaluaria con 8
+
+R7:Si lo recomendaria.
