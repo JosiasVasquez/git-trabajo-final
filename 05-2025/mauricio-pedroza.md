@@ -7,3 +7,5 @@ lo del stash, no logré entenderlo por completo.
 haciendo proyectos. 
 4, cual fue la parte mas difísil del curso. 
 lo de las ramas, sin duda es de lo más complejo. 
+5, que parte del curso te gustó más. 
+lo de las github pages, es algo súper útil y Beneficioso. 
