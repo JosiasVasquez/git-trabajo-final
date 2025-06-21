@@ -12,6 +12,9 @@
         Lo que me genero una dificultad al principio del curso fue seguir durante las clases los cambios que se iban haciendo desde la consola del profesor, por momentos me perdia pero al repasar las clases pude seguirla bien e incorporar los conocimientos
 
         5. ¿Qué parte del curso te gustó más?
+        La parte que mas me gusto del curso fueros las actividades y tareas semanales, me ayudaron un monton para poder ir fortaleciendo los conocimientos brindados semana a semana
+
+
         6. ¿Cómo evaluarías el curso en una escala del 1 al 10?
         7. ¿Recomendarías este curso a otras personas?
         8. ¿Qué mejorarías del curso?
