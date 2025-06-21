@@ -17,3 +17,5 @@ si.
 la hora. 
 9, cual fue tu proyecto o ejercicio y por qué?
 el de las solicitudes de extracción. 
+10, qué expectativas tenías antes del curso y se cumplieron? 
+aprender git en windows. 
