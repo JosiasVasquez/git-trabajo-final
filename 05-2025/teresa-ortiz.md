@@ -4,4 +4,6 @@ Lo más valioso del curso fue aprender a manejar Git tanto desde la terminal com
 2. ¿Qué tema no te queda tan claro?
 Me costó encontrar con facilidad los botones y enlaces en la interfaz de GitHub, lo que a veces dificultaba realizar las acciones que se pedían.       
 
+3. ¿Cómo piensas practicar lo aprendido?
+Pienso aplicar lo aprendido en mi próximo proyecto, utilizando Git para gestionar el control de versiones y organizar mejor mi trabajo.
 
