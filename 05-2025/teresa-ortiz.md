@@ -13,3 +13,5 @@ La parte más difícil fue el uso de la página de GitHub, ya que me tomó tiemp
 5. ¿Qué parte del curso te gustó más?
 Me encantó la parte en la que aprendimos a clonar proyectos, crear archivos y movernos entre ramas. Fue muy interesante descubrir que todo lo que se realiza en GitHub queda registrado. También disfruté mucho aprender sobre el uso del stash.        
 
+6. ¿Cómo evaluarías el curso en una escala del 1 al 10?
+Le daría una calificación de 9, porque me pareció muy completo y útil, aunque siempre hay pequeños detalles que se pueden mejorar.        
