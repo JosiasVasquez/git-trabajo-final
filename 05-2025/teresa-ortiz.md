@@ -15,3 +15,7 @@ Me encantó la parte en la que aprendimos a clonar proyectos, crear archivos y m
 
 6. ¿Cómo evaluarías el curso en una escala del 1 al 10?
 Le daría una calificación de 9, porque me pareció muy completo y útil, aunque siempre hay pequeños detalles que se pueden mejorar.        
+        
+7. ¿Recomendarías este curso a otras personas?
+Sí, definitivamente lo recomendaría. No solo aprendí mucho sobre Git y su uso práctico, sino que también pude conocer mejor mi propio proceso de aprendizaje y ritmo de trabajo. Además, la información que se brinda es muy útil y aplicable a proyectos reales, lo que hace que el curso sea valioso para cualquier persona interesada en mejorar sus habilidades en control de versiones y desarrollo colaborativo.
+
