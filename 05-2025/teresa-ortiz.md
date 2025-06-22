@@ -21,3 +21,7 @@ Sí, definitivamente lo recomendaría. No solo aprendí mucho sobre Git y su uso
 
 8. ¿Qué mejorarías del curso?
 Me gustaría que el profesor explicara un poco más los pasos que va realizando mientras trabaja. En algunos momentos me costó seguir el ritmo porque no siempre entendía qué estaba haciendo, y creo que una explicación más detallada ayudaría a comprender mejor el contenido sobre todo para los que somos débiles visuales.
+
+9. ¿Cuál fue tu proyecto favorito o ejercicio y por qué?
+Mi proyecto favorito fue el primero, ya que me gustó aprender a usar los comandos add y commit, así como trabajar con las etiquetas (tags). También entendí la importancia de tener cuidado al borrar archivos y cómo manejar correctamente el flujo de trabajo. Además, me gustó mucho cuando hicimos la página web y pude verla en el navegador. Aunque me costó un poco por no conocer bien cómo se usaba la herramienta, aprendí bastante durante el proceso.
+
