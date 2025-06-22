@@ -2,3 +2,4 @@
 2.- Todavía me cuesta un poco entender la diferencia entre merge y rebase, especialmente cuándo usar cada uno, por otra parte me cuesta entender por que en cada commit se tiene que guardar individualmente para que se guarde correctamente
 3.- Pienso seguir utilizando Git y GitHub en mis tareas personales, escolares y prácticas, utilizando lo aprendido en el curso
 4.- Siendo sincera, todo me pareció complicado, pues era mi primera vez trabajando asi, se me complica a veces programar por la dislexia pues no me doy cuenta que estoy escribiendo mal. En cuanto al entendimiento del curso, me cuenta trabajo entender como se conecta lo que yo hago desde la consola a algo publico como los pull request
+5.- Me gustó mucho aprender a crear pages con GitHub, pues a veces basaba mis proyectos de la universidad con códigos que encontraba en paginas asi y me gustó saber como se crean
