@@ -1,0 +1,1 @@
+1.- Aprendí a usar Git y GitHub correctamente para llevar control de versiones en mis proyectos, lo cual es muy valioso para trabajar en equipo y organizar mis avances. Realmente es la primera vez que uso GitHub, así que es muy importante para mi empezar de esta forma
