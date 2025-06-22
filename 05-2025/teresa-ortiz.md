@@ -25,3 +25,5 @@ Me gustaría que el profesor explicara un poco más los pasos que va realizando 
 9. ¿Cuál fue tu proyecto favorito o ejercicio y por qué?
 Mi proyecto favorito fue el primero, ya que me gustó aprender a usar los comandos add y commit, así como trabajar con las etiquetas (tags). También entendí la importancia de tener cuidado al borrar archivos y cómo manejar correctamente el flujo de trabajo. Además, me gustó mucho cuando hicimos la página web y pude verla en el navegador. Aunque me costó un poco por no conocer bien cómo se usaba la herramienta, aprendí bastante durante el proceso.
 
+10. ¿Qué expectativas tenías antes de comenzar el curso y se cumplieron?
+Tenía la expectativa de conocer más sobre las herramientas de Git, y la verdad es que aprendí mucho más de lo que imaginaba. Me di cuenta de que Git es una herramienta mucho más amplia y completa de lo que pensaba al inicio del curso.
