@@ -7,3 +7,5 @@ Me costó encontrar con facilidad los botones y enlaces en la interfaz de GitHub
 3. ¿Cómo piensas practicar lo aprendido?
 Pienso aplicar lo aprendido en mi próximo proyecto, utilizando Git para gestionar el control de versiones y organizar mejor mi trabajo.
 
+4. ¿Cuál fue la parte más difícil del curso?
+La parte más difícil fue el uso de la página de GitHub, ya que me tomó tiempo familiarizarme con su interfaz. A veces me costaba encontrar los botones o enlaces necesarios, lo que hacía que tardara más en completar las tareas.        
