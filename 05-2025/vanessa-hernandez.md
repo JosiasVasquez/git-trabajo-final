@@ -3,3 +3,4 @@
 3.- Pienso seguir utilizando Git y GitHub en mis tareas personales, escolares y prácticas, utilizando lo aprendido en el curso
 4.- Siendo sincera, todo me pareció complicado, pues era mi primera vez trabajando asi, se me complica a veces programar por la dislexia pues no me doy cuenta que estoy escribiendo mal. En cuanto al entendimiento del curso, me cuenta trabajo entender como se conecta lo que yo hago desde la consola a algo publico como los pull request
 5.- Me gustó mucho aprender a crear pages con GitHub, pues a veces basaba mis proyectos de la universidad con códigos que encontraba en paginas asi y me gustó saber como se crean
+6.- Le daría un 9, me hubiera gustado que nos enseñaran directamente la instalación de git, pues yo le batallé bastante y noté que mis compañeros también tuvieron complicaciones a pesar de tenr instrucciones de como hacerlo. Por otra parte me hubiera guastado que el horario de clase fuera por las nohces 
