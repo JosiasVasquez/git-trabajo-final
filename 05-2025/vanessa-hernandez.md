@@ -6,3 +6,4 @@
 6.- Le daría un 9, me hubiera gustado que nos enseñaran directamente la instalación de git, pues yo le batallé bastante y noté que mis compañeros también tuvieron complicaciones a pesar de tenr instrucciones de como hacerlo. Por otra parte me hubiera guastado que el horario de clase fuera por las nohces 
 7.- Totalmente, el método de enseñanza me parece muy flexible y amigable, yo que aprendí casi desde cero, no me pareció tan difícil
 8.- No estoy segura, me pareció muy bien el curso, tal vez hacer un pequeño resumen escrito de las clases, pues a veces no logro captar todo y esto serviría como notas en trabajos posteriores
+9.- Mi proyecto favorito fue hacer el listado de favoritos, pues me gusta ver como se puede relacionar un archivo con otro
