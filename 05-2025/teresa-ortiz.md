@@ -9,3 +9,7 @@ Pienso aplicar lo aprendido en mi próximo proyecto, utilizando Git para gestion
 
 4. ¿Cuál fue la parte más difícil del curso?
 La parte más difícil fue el uso de la página de GitHub, ya que me tomó tiempo familiarizarme con su interfaz. A veces me costaba encontrar los botones o enlaces necesarios, lo que hacía que tardara más en completar las tareas.        
+
+5. ¿Qué parte del curso te gustó más?
+Me encantó la parte en la que aprendimos a clonar proyectos, crear archivos y movernos entre ramas. Fue muy interesante descubrir que todo lo que se realiza en GitHub queda registrado. También disfruté mucho aprender sobre el uso del stash.        
+
