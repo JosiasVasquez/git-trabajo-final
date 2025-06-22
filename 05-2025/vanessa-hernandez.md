@@ -4,4 +4,5 @@
 4.- Siendo sincera, todo me pareció complicado, pues era mi primera vez trabajando asi, se me complica a veces programar por la dislexia pues no me doy cuenta que estoy escribiendo mal. En cuanto al entendimiento del curso, me cuenta trabajo entender como se conecta lo que yo hago desde la consola a algo publico como los pull request
 5.- Me gustó mucho aprender a crear pages con GitHub, pues a veces basaba mis proyectos de la universidad con códigos que encontraba en paginas asi y me gustó saber como se crean
 6.- Le daría un 9, me hubiera gustado que nos enseñaran directamente la instalación de git, pues yo le batallé bastante y noté que mis compañeros también tuvieron complicaciones a pesar de tenr instrucciones de como hacerlo. Por otra parte me hubiera guastado que el horario de clase fuera por las nohces 
-7.- Totalmente, el método de enseñanza me parece muy flexible y amigable, yo que aprendí casi desde cero, no me pareció tan dificil
+7.- Totalmente, el método de enseñanza me parece muy flexible y amigable, yo que aprendí casi desde cero, no me pareció tan difícil
+8.- No estoy segura, me pareció muy bien el curso, tal vez hacer un pequeño resumen escrito de las clases, pues a veces no logro captar todo y esto serviría como notas en trabajos posteriores
