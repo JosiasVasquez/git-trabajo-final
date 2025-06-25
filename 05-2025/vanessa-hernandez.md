@@ -1,0 +1,10 @@
+1.- Aprendí a usar Git y GitHub correctamente para llevar control de versiones en mis proyectos, lo cual es muy valioso para trabajar en equipo y organizar mis avances. Realmente es la primera vez que uso GitHub, así que es muy importante para mi empezar de esta forma
+2.- Todavía me cuesta un poco entender la diferencia entre merge y rebase, especialmente cuándo usar cada uno, por otra parte me cuesta entender por que en cada commit se tiene que guardar individualmente para que se guarde correctamente
+3.- Pienso seguir utilizando Git y GitHub en mis tareas personales, escolares y prácticas, utilizando lo aprendido en el curso
+4.- Siendo sincera, todo me pareció complicado, pues era mi primera vez trabajando asi, se me complica a veces programar por la dislexia pues no me doy cuenta que estoy escribiendo mal. En cuanto al entendimiento del curso, me cuenta trabajo entender como se conecta lo que yo hago desde la consola a algo publico como los pull request
+5.- Me gustó mucho aprender a crear pages con GitHub, pues a veces basaba mis proyectos de la universidad con códigos que encontraba en paginas asi y me gustó saber como se crean
+6.- Le daría un 9, me hubiera gustado que nos enseñaran directamente la instalación de git, pues yo le batallé bastante y noté que mis compañeros también tuvieron complicaciones a pesar de tenr instrucciones de como hacerlo. Por otra parte me hubiera guastado que el horario de clase fuera por las nohces 
+7.- Totalmente, el método de enseñanza me parece muy flexible y amigable, yo que aprendí casi desde cero, no me pareció tan difícil
+8.- No estoy segura, me pareció muy bien el curso, tal vez hacer un pequeño resumen escrito de las clases, pues a veces no logro captar todo y esto serviría como notas en trabajos posteriores
+9.- Mi proyecto favorito fue hacer el listado de favoritos, pues me gusta ver como se puede relacionar un archivo con otro
+10.- No sabia que era GitHub cuando me inscribí, y quería aprender a usarlo, asi que si, se cumplieron mis expectativas, pues aprendí desde cero a usarlo, sé que me falta mucha practica, pero considero que profesionalmente me ayudará mucho
