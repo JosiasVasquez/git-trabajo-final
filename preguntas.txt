@@ -1,0 +1,29 @@
+        1. ¿Qué es lo más valioso que aprendiste en el curso?
+las pull request.
+
+        2. ¿Qué tema no te queda tan claro?
+git rebase y gitmerge
+
+        3. ¿Cómo piensas practicar lo aprendido?
+En desarrollo de sistemas.
+
+        4. ¿Cuál fue la parte más difícil del curso?
+La solución de conflictos.
+
+        5. ¿Qué parte del curso te gustó más?
+los stash y gestión de ramas.
+
+        6. ¿Cómo evaluarías el curso en una escala del 1 al 10?
+9
+
+        7. ¿Recomendarías este curso a otras personas?
+Sí.
+
+        8. ¿Qué mejorarías del curso?
+Hacer una practica colaborativa  entre dos o más integrantes. 
+
+        9. ¿Cuál fue tu proyecto favorito o ejercicio y por qué?
+La gestión de ramas y resolución de conflictos  por  que permite  administrar  diversas ramas  realizando  tareas sin afectar a todo el proyecto.
+
+        10. ¿Qué expectativas tenías antes de comenzar el curso y se cumplieron?
+Manejo de versiones, gestion de conflictos, proceso colaborativo si se cumplierón.
